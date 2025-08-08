@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## 🎓 About Me
 - 🏫 **BS in Computer Science** @ Baylor University — Sic 'em Bears!
-- 💡 Currently learning **C++**, **Calculus**, and exploring **customization** in Neovim & Linux.
+- 💡 Currently learning **C++**, and exploring customization in Neovim & Linux.
 
 ---
 
@@ -23,6 +23,6 @@ Welcome to my GitHub profile!
 ---
 
 ## ⚡ Fun Fact
-- 🎨 Check out [The Eldritch Theme!](https://github.com/eldritch-theme/eldritch) — the only theme you'll ever need for all your computer needs.
+- 🎨 Check out [The Eldritch Theme!](https://github.com/eldritch-theme/eldritch) — the only theme you'll ever want for all your computer needs.
 
 ---
