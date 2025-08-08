@@ -1,11 +1,28 @@
-## Hey there 👋 My name is Cody George. Welcome to my GH Profile!
+# 👋 Hi, I'm Cody George!
 
+Welcome to my GitHub profile!
 
-- 🔭 I’m studying for a BS in Computer Science at Baylor Universisty! Sic' em!
-- 🌱 I’m currently learning Programming(C++)/Calculus in school, and for personal interest im learning how to utilize coding for customization in things like neovim and linux.
-- 👯 I’m looking to collaborate on anything and everything. I love learning new things and working on new projects with a team. I've dabbled in web development and game development as well as competed in the [SWCCDC](https://southwestccdc.com)
+---
 
-- 💬 Ask me about any of my code/repo's, or feel free to reach out to me for collaborations!
-- 📫 Shoot me an email @ `codygeorge315@gmail.com`, or check out my site and leave a comment! [My site hosted by GH](https://codyjgeorge.github.io/Simple_Hacker_Portfolio)
+## 🎓 About Me
+- 🏫 **BS in Computer Science** @ Baylor University — Sic 'em Bears!
+- 💡 Currently learning **C++**, **Calculus**, and exploring **customization** in Neovim & Linux.
 
-- ⚡ Fun fact: Check out [The Eldritch Theme!](https://github.com/eldritch-theme/eldritch) The only theme you'll ever need for all your computer needs.
+---
+
+## 🚀 Interests & Collaboration
+- 👨‍💻 I love working in web development, game development, and anything new.
+- 🤝 Open to collaboration! Let's build something awesome together.
+
+---
+
+## 📬 Contact Me
+- 📧 Email: `codygeorge315@gmail.com`
+- 🌐 [My personal website](https://codyjgeorge.github.io/Simple_Hacker_Portfolio) — leave a comment!
+
+---
+
+## ⚡ Fun Fact
+- 🎨 Check out [The Eldritch Theme!](https://github.com/eldritch-theme/eldritch) — the only theme you'll ever need for all your computer needs.
+
+---
