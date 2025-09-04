@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 🎓 About Me
-- 🏫 **BS in Computer Science** @ Baylor University — Sic 'em Bears!
+- 🏫 **Computer Science Major** @ Baylor University — Sic 'em Bears!
 - 💡 Currently learning **C++**, and exploring customization in Neovim & Linux.
 
 ---
