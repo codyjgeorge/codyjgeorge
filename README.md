@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 Interests & Collaboration
 - 👨‍💻 I love working in web development, game development, and anything new.
-- Check out my first published game on https://cod3z.itch.io/eldritch-pong !
+- 🕹 Check out my first published game on https://cod3z.itch.io/eldritch-pong !
 - 🤝 Open to collaboration! Let's build something awesome together.
 
 
