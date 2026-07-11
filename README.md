@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Cody George!
 
-__Welcome to my GitHub profile!__
+__"Do you think that's air you're breathing now?"__
 
 
 ## 🎓 About Me
 - 🏫 **Computer Science Major** @ Baylor University — Sic 'em Bears!
-- 💡 Currently learning **C++**, and exploring customization in Neovim & Linux.
+- 💡 Currently learning **C++ and Nix**, and exploring customization in Neovim & Linux.
 
 
 ## 🚀 Interests & Collaboration
