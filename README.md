@@ -10,12 +10,12 @@ __"Do you think that's air you're breathing now?"__
 
 ## 🚀 Interests & Collaboration
 - 👨‍💻 I love working in web development, game development, and anything new.
-- 🕹 Check out my games on [my Itch.io](https://cod3z.itch.io/) !
+- 🕹 Check out the games I developed on [my Itch.io](https://cod3z.itch.io/) !
 - 🤝 Open to collaboration! Let's build something awesome together.
 
 
 ## 👷🏻‍♂️ Current Projects
-- ⌨️ [KeyBoardHero](https://github.com/codyjgeorge/KeyboardHero)
+- ⌨️ [NixOS](https://github.com/codyjgeorge/nix)
 
 
 ## 📬 Contact Me
