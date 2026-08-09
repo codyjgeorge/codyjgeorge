@@ -16,7 +16,6 @@ __"Do you think that's air you're breathing now?"__
 
 ## 👷🏻‍♂️ Current Projects
 - ⌨️ [NixOS](https://github.com/codyjgeorge/nix)
-- ✍️ [Text Editor](https://github.com/codyjgeorge/simpleTextEditor)
 
 
 ## 📬 Contact Me
